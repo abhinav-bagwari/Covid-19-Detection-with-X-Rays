@@ -14,5 +14,5 @@ To view the architecture upload this covid_model.h5 file (provided above) in htt
 # How to run ?
 - Unzip the folder
 - Create a new Virtual env and install all the necessary libraries provided in requirements.txt
-- activate the in env and run the app.py as "python app.py"
+- activate the env and run the app.py as "python app.py"
 - Upload the X-ray and watch out the results
