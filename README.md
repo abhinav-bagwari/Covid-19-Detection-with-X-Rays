@@ -11,8 +11,11 @@ To view the architecture upload this covid_model.h5 file (provided above) in htt
 ![2021-08-27 (1)](https://user-images.githubusercontent.com/71334027/131033660-ce9a38e6-c050-4164-8c4c-9db826667920.png)
 ![2021-08-27](https://user-images.githubusercontent.com/71334027/131033683-ac1b8b8c-23a5-4112-9a50-73a8980c94b4.png)
 
-# How to run ?
-- Unzip the folder
-- Create a new Virtual env and install all the necessary libraries provided in requirements.txt
-- activate the env and run the app.py as "python app.py"
-- Upload the X-ray and watch out the results
+## How to Setup ?
+- a -> Unzip the file in a new folder
+- b -> Open terminal and create a new virtual environment as virtualenv 'name of venv' (without '')
+- c -> activate your terminate as name of venv\Scripts\activate
+- d -> pip install all the necessary libraries (also present in requirements.txt)
+- e -> run the command "python app.py"
+
+### There you go...
