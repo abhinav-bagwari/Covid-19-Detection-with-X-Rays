@@ -1,6 +1,6 @@
 # Covid-19-Detection-with-X-Rays
 
-- Classification of Covid patients based on their X-ray || Multilayer CNN || Deep Learning
+## Classification of Covid patients based on their X-ray || Multilayer CNN || Deep Learning
 
 you can also  directly download the h5 file using https://drive.google.com/file/d/1kURakV9o2-loVYDB0m38fwAislrb3r8f/view?usp=sharing
 
